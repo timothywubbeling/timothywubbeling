@@ -11,5 +11,5 @@ I am a passionate Business Intelligence student looking for a 2027 Business Inte
 - **[Diabetes Preditor Web Application]** - I worked in a team where we create an online diabetes predictor in order to try and predict if a person would be at risk of developing diabetes, if they dont already have it. We used our machine learning skills to create and deploy the web application.
 - **[Weather Forecasting Web Application]** - I worked in a team where we create a web application for prediting what the weather will do, given the current enviromnet conditions. We employed multiple machine learning models according to the type of data to get precise predictions. 
 
-- 💼 [LinkedIn](Your-Link)
+- 💼 [LinkedIn](www.linkedin.com/in/timothy-wubbeling-64638736b)
 - 📧 [Email](timothywubbeling@gmail.com)
