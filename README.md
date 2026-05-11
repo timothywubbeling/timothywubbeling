@@ -1,4 +1,4 @@
-# Hi, I'm [Timothy Wubbeling]! 👋
+# Hi, I'm Timothy Wubbeling! 👋
 I am a passionate Business Intelligence student looking for a 2027 Business Intelligence or Machine Learning Internship.
 
 ### 🛠️ Tech Stack
